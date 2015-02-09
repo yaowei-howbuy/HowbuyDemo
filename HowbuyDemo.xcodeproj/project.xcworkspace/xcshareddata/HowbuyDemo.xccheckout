@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD118C7C-1B35-4B96-9F9F-9679F0F6EC51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HowbuyDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FFADA86C0736537474AC0D72ECAB6D15E123092</key>
+		<string>github.com:yaowei-howbuy/HowbuyDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HowbuyDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FFADA86C0736537474AC0D72ECAB6D15E123092</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yaowei-howbuy/HowbuyDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FFADA86C0736537474AC0D72ECAB6D15E123092</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FFADA86C0736537474AC0D72ECAB6D15E123092</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HowbuyDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

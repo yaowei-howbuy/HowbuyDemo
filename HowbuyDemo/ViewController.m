@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
 
 @interface ViewController ()
 
@@ -22,6 +24,11 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (IBAction)selector:(id)sender
+{
+    [[Crashlytics sharedInstance] crash];
 }
 
 @end
